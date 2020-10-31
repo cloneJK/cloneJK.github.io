@@ -3,11 +3,11 @@
   <title>JK</title>
   
   <subtitle>乱码出芬芳</subtitle>
-  <link href="https://weilining.cf/atom.xml" rel="self"/>
+  <link href="https://github.com/cloneJK/cloneJK.github.io/atom.xml" rel="self"/>
   
-  <link href="https://weilining.cf/"/>
+  <link href="https://github.com/cloneJK/cloneJK.github.io/"/>
   <updated>2020-10-26T04:56:12.575Z</updated>
-  <id>https://weilining.cf/</id>
+  <id>https://github.com/cloneJK/cloneJK.github.io/</id>
   
   <author>
     <name>码小秃</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>webpack</title>
-    <link href="https://weilining.cf/2020/10/26/post/"/>
-    <id>https://weilining.cf/2020/10/26/post/</id>
+    <link href="https://github.com/cloneJK/cloneJK.github.io/2020/10/26/post/"/>
+    <id>https://github.com/cloneJK/cloneJK.github.io/2020/10/26/post/</id>
     <published>2020-10-26T04:01:47.000Z</published>
     <updated>2020-10-26T04:56:12.575Z</updated>
     
