@@ -1236,6 +1236,11 @@ pre code {
   font-weight: 900;
   color: #d9534f;
 }
+.pdfobject-container iframe,
+.pdfobject-container embed {
+  height: 500px;
+  width: 100%;
+}
 .mermaid {
   margin-bottom: 20px;
   text-align: center;
