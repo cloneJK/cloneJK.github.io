@@ -6,7 +6,7 @@
   <link href="https://github.com/cloneJK/cloneJK.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/cloneJK/cloneJK.github.io/"/>
-  <updated>2020-10-26T04:56:12.575Z</updated>
+  <updated>2020-10-31T12:19:57.855Z</updated>
   <id>https://github.com/cloneJK/cloneJK.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[object Object]</title>
+    <link href="https://github.com/cloneJK/cloneJK.github.io/express.html"/>
+    <id>https://github.com/cloneJK/cloneJK.github.io/express.html</id>
+    <published>2020-10-31T12:19:57.854Z</published>
+    <updated>2020-10-31T12:19:57.855Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a>]]></content>
+    
+    
+    <summary type="html">default</summary>
+    
+    
+    
+    <category term="default" scheme="https://github.com/cloneJK/cloneJK.github.io/categories/default/"/>
+    
+    
+    <category term="default" scheme="https://github.com/cloneJK/cloneJK.github.io/tags/default/"/>
+    
+  </entry>
   
   <entry>
     <title>webpack</title>
